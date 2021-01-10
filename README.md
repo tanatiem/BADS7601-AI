@@ -2,5 +2,5 @@
 My project deliverable for AI course - BADS 7601 (Summer 2020)  
 Implemented using Google Colab  
 
-**Source**: https://colab.research.google.com/drive/19OVPCcR4DjNFbHZcTKFDz3PDHADWfRly?usp=sharing
-
+**Main**  
+7601_AI_Project.ipynb
